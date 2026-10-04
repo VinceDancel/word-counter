@@ -1,0 +1,6 @@
+Hello world! This is a simple test file for the Word and Line Counter CLI.
+
+Node.js allows us to read files asynchronously using the fs/promises module.
+We can count lines, words, and total characters effortlessly.
+
+Happy coding!
